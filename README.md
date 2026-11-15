@@ -1,5 +1,6 @@
 # newProject
 trying github
-##project notes
+
+## project notes
 I dont know
 whatever
